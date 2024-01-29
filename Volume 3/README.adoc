@@ -1,0 +1,19 @@
+= About This Repository
+
+This repository contains the TEI source file, and derived text and HTML files of an ebook posted to https://www.gutenberg.org/[Project Gutenberg]. Like the version posted to Project Gutenberg, this ebook is free from copyright in the U.S. No claim is made about its copyright status outside the U.S.
+
+The version maintained in this repository may be slightly out-of-sync with the version maintained at Project Gutenberg. Mostly, fixes will be made first here, and only then reposted to Project Gutenberg. When you encounter any issue in this text, please report it here.
+
+== About This Ebook
+
+|===
+|Field |Value
+
+|Title |Travels into North America (Volume 3 of 3)
+|Author |Pehr Kalm (1716–1779)
+|Translator |John Reinhold Forster (1729–1798)
+|Publisher |Project Gutenberg, Urbana, Illinois, USA., 2024-01-17
+|Publication date |2024-01-17
+|Availability |This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at https://www.gutenberg.org/[www.gutenberg.org]. This eBook is produced by the Online Distributed Proofreading Team at https://www.pgdp.net/[www.pgdp.net]. This is volume three of a three volume set. Volume one is available as ebook number https://www.gutenberg.org/ebooks/71849[71849], volume two as https://www.gutenberg.org/ebooks/72103[72103]. This work originally appeared in Swedish as En Resa til Norra America (Stockholm, 1753–1761). A Dutch edition of this work, Reis door Noord Amerika (Utrecht, 1772), is available as ebook number https://www.gutenberg.org/ebooks/71453[71453].
+|PG Ebook Number |https://www.gutenberg.org/ebooks/72737[72737]
+|===
